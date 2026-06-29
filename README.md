@@ -13,7 +13,7 @@ I'm an IT student from the Philippines who enjoys building practical software so
 
 ## 🛠 Tech Stack
 
-**Languages:** Python, Java, JavaScript, HTML, CSS, SQL
+**Languages:** Python, Java, JavaScript, HTML, CSS, SQL, Dart
 
 **Tools & Technologies:** TensorFlow, Keras, Firebase, MySQL, Git, GitHub
 
