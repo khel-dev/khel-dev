@@ -1,12 +1,27 @@
-- 👋 Hi, I’m @khel-dev
-- 👀 I’m interested in music
-- 🌱 I’m currently learning front end development
-- 💞️ I’m looking to collaborate on programming
-- 📫 You can reach me on facebook
-- 😄 HAHA 
-- ⚡ nagka crush sa dapat kaibigan lang
+# 👋 Hi, I'm Queljayver Delos Santos
 
-<!---
-khel-dev/khel-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**BS Information Technology Student | AI Enthusiast | Aspiring Full-Stack Developer**
+
+I'm an IT student from the Philippines who enjoys building practical software solutions and exploring Artificial Intelligence. I love learning new technologies and creating projects that solve real-world problems.
+
+## 🚀 About Me
+
+* 💻 Passionate about Software/Web Development
+* 🤖 Currently learning Machine Learning & Computer Vision
+* 🌱 Interested in AI-powered and Web applications
+* 📚 Always improving my skills through real projects
+
+## 🛠 Tech Stack
+
+**Languages:** Python, Java, JavaScript, HTML, CSS, SQL
+
+**Tools & Technologies:** TensorFlow, Keras, Firebase, MySQL, Git, GitHub
+
+## 🎯 Current Goal
+
+To become a skilled software developer by building impactful web and AI-powered applications. (atik-atik lang gud bwahaha)
+
+## 📫 Connect with Me
+
+- 📧 Email: <a href="mailto:queljayverdelossantos@gmail.com">queljayverdelossantos@gmail.com</a>
+- 📘 Facebook: <a href="https://www.facebook.com/queljayver.bustamante.90" target="_blank">Queljayver D. Bustamante</a>
