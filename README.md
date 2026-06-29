@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Queljayver Delos Santos
+# 👋 Hi, I'm Queljayver D. Bustamante
 
 **BS Information Technology Student | AI Enthusiast | Aspiring Full-Stack Developer**
 
